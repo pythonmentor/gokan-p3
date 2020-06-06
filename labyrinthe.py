@@ -33,4 +33,4 @@ class Labyrinthe:
         self.objets_positions = random.sample(
         set(self.paths)  {self.depart.position, self.arriver.position},
         objets = 3
-        nom_objets = ['seringue', 'aiguille', 'tube']
+        nom = ['seringue', 'aiguille', 'tube']
